@@ -4,7 +4,7 @@ This program is to analyize biologic sequences
 ## Why was this project created?
 This was a project I started on college, on the programming subject. After that subject ended, and until to this day, I continue to try to make the project better.
 
-## Objectiv
+## Objective
 This program is divided in 5 stages (exercises).
 
 1. Analyze a sequence
@@ -31,7 +31,7 @@ This program is divided in 5 stages (exercises).
 5. Show the complementary 
 
 
-### Thirst Stage
+### Third Stage
 1. Selete an element of the sequence, replacing for '-'
 2. Add a new element '-' in the sequence, in a certain position.
 3. Show the Hamming distance bewteen 2 sequences of the same size
